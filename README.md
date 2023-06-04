@@ -4,7 +4,7 @@
 
 - <b>Virtual Machines</b>
   - [Kali Linux - Initial Setup & Troubleshooting Guide (Windows 10)](https://github.com/raygborje/Kali.Linux.VM)
-  - [Microsoft Azure - Creating a Virtual Machine](https://github.com/raygborje/Kali.Linux.VM)
+  - [Microsoft Azure - Creating a Virtual Machine](https://github.com/raygborje/Microsoft.Azure.VM)
 
 
 <h2> 🤳 Connect with me:</h2>
