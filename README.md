@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raymond! <br/><a target="_blank" rel="noopener noreferrer" href="https://github.com/raygborje">Cyber Security Student</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rgborje99/">IT Help Desk Analyst</a></h1>
+<h1>Hi, I'm Raymond! <br/><a href="https://github.com/raygborje" target="_blank" rel="noopener noreferrer">Cyber Security Student</a>, <a href="https://www.linkedin.com/in/rgborje99/" target="_blank" rel="noopener noreferrer">IT Help Desk Analyst</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
