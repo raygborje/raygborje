@@ -1,9 +1,9 @@
-<h1>Hi, I'm Raymond! <br/><a href="https://github.com/raygborje" target="_blank" rel="noopener noreferrer">Cyber Security Student</a>, <a href="https://www.linkedin.com/in/rgborje99/" target="_blank" rel="noopener noreferrer">IT Help Desk Analyst</a></h1>
+<h1>Hi, I'm Raymond! <br/><a href="https://github.com/raygborje">Cyber Security Student</a>, <a href="https://www.linkedin.com/in/rgborje99/">IT Help Desk Analyst</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Virtual Machines</b>
-  - <a href="https://github.com/raygborje/Kali.Linux.VM" target="_blank"> Kali Linux - Initial Setup & Troubleshooting Guide (Windows 10) </a>
+  - [Kali Linux - Initial Setup & Troubleshooting Guide (Windows 10)](https://github.com/raygborje/Kali.Linux.VM)
 
 <h2>📺 Popular YouTube Videos</h2>
 
