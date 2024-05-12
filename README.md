@@ -6,6 +6,9 @@
   - [Kali Linux - Initial Setup & Troubleshooting Guide (Windows 10)](https://github.com/raygborje/Kali.Linux.VM)
   - [Microsoft Azure - Creating a Virtual Machine](https://github.com/raygborje/Microsoft.Azure.VM)
 
+- <b>Servers</b>
+  - [Windows Server 2022 - Setting Up Active Directory](https://github.com/raygborje/Windows.Server.2022)
+
 
 <h2> 🤳 Connect with me:</h2>
 
